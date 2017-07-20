@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Static site default
 description: A really simple static site created with Github pages
+show_downloads: "false"
+# google_analytics: [Your Google Analytics tracking ID]
