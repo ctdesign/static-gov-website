@@ -1,8 +1,10 @@
 ## Gov static site template
 
-This is a forkable repo for making a quick static website that looks like GOV.UK.
+This is a forkable repo for making a quick static website that looks like GOV.UK. Have a look at this site here: https://ctdesign.github.io/static-gov-website/
 
-Its for quick prototyping or for using as a temporary information website. It's a modified version of one of the defaul Github pages themes with some custom CSS and theme files to make it look like GOV.UK.
+Its for quick and dirty prototyping, powered by markdown. You _can_ run it locally but I find it quickest to edit it all via the Github website interface. Makes collaborating on content really easy.
+
+It's a modified version of one of the default Github pages themes with some custom CSS and theme files to make it look like GOV.UK.
 
 ### Instructions
 
