@@ -752,3 +752,13 @@ ul.tab--nav li a:focus { background-color: #ffbf47; outline-offset: -3px; }
 body {
   font-family: Arial, sans-serif!important;
 }
+
+//list styles
+
+ul, ol { padding: 0; margin-top: 5px; margin-bottom: 20px; }
+
+ul li, ol li { margin-bottom: 5px; }
+
+ul { list-style-type: disc; padding-left: 20px; }
+
+ol { list-style-type: decimal; padding-left: 20px; }
