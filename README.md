@@ -1,4 +1,19 @@
-## Welcome to GitHub Pages
+## Gov static site template
+
+This is a forkable repo for making a quick static website that looks like GOV.UK.
+
+Its for quick prototyping or for using as a temporary information website. It's a modified version of one of the defaul Github pages themes with some custom CSS and theme files to make it look like GOV.UK.
+
+### Instructions
+
+1. First fork this repo
+2. Then go to Settings
+3. Scroll down to the Github Pages section
+4. Choose a source - choose 'master branch' if you're not sure
+5. Click the 'Change theme' button and choose the Cayman theme.
+6. That's it. Your site will be available to the public at: https://yourusername.github.io/your-repo-name/
+
+### Using github pages
 
 You can use the [editor on GitHub](https://github.com/ctdesign/static-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
